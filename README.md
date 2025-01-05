@@ -1,5 +1,7 @@
 # Animal Disease Diagnosis App
 
+![Screenshot_2025-01-05_154628-removebg-preview](https://github.com/user-attachments/assets/e1b08217-b2f5-4dca-93a4-b098c51967fc)
+
 This repository contains code and resources developed during my internship at the **Centre for Water Informatics & Technology (WIT), LUMS** as a **Research and Development Intern** (Aug 2024 – Oct 2024).
 
 ## Overview
