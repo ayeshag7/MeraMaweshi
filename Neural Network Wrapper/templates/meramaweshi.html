@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mera Maweshi</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style1.css') }}">
+
+</head>
+
+<body>
+<!-- <div class="login"> -->
+
+
+<!-- <h1>Predict CO2 Emission of Vehicles</h1>
+ <h3> Enter the following values to predict the CO2 emission from the vehicle</h3> -->
+
+<!-- Main Input For Receiving Query to our ML -->
+<h1 style=" text-align: center;">Choose Symptoms for Disease prediction</h1>
+<form action="{{ url_for('predict')}}" method="post">
+
+
+    <!-- Start Single Service -->
+
+
+    <!--
+  <div class="service-icon">
+    <span class="fa fa-stethoscope service-icon-effect"></span>
+  </div>
+  -->
+
+    <!-- <h3 >Respiratory System</h3>
+                           -->
+    <div class="row">
+        <div class="col-md-4">
+            <ul>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Abdominal_pain" autofocus/> Abdominal_pain </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Abdominal_distention_left_side" autofocus/>
+                        Abdominal_distention_left_side </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Anemia" autofocus/> Anemia </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Cough" autofocus/> Cough </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Blood_in_feaces" autofocus/> Blood_in_feaces</p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Blood_in_urine" autofocus/> Blood_in_urine</p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Blood_leakage_from_natural_holes_of_dead_animal" autofocus/>
+                        Blood_leakage_from_natural_holes_of_dead_animal </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Bottle_jaw" autofocus/> Bottle_jaw </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Circling" autofocus/> Circling </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Constipation" autofocus/> Constipation </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Crepitation" autofocus/> Crepitation </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Blisters/lesions on feet" autofocus/> Blisters/lesions on feet </p>
+                </li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Depression" autofocus/> Depression </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Diarrhea" autofocus/> Diarrhea </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Difficult_movement" autofocus/> Difficult_movement </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Dog_bite" autofocus/> Dog_bite </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Dyspnea" autofocus/> Dyspnea </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Emaciation" autofocus/> Emaciation </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Enlarged_lymph_nodes" autofocus/> Enlarged_lymph_nodes </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Faulty_drenching" autofocus/> Faulty_drenching </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Feet_foul_odor" autofocus/> Feet_foul_odor </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Feet_lesions" autofocus/> Feet_lesions </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Fever" autofocus/> Fever </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Gas_accumulation" autofocus/> Gas_accumulation </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Hair_loss" autofocus/> Hair_loss </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Hard_feaces" autofocus/> Hard_feaces </p></li>
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Sneezing" autofocus/> Sneezing </p></li>
+
+            </ul>
+        </div>
+        <div class="col-md-4">
+            <ul>
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Anorexia" autofocus/> Anorexia</p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Head_pressing" autofocus/> Head_pressing </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Increased_heart_rate" autofocus/> Increased_heart_rate </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Itching" autofocus/> Itching </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Knee_swelling" autofocus/> Knee_swelling </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Lameness" autofocus/> Lameness </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Milk_abnormalities" autofocus/> Milk_abnormalities </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Milk_reduction" autofocus/> Milk_reduction </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Mouth_frothing" autofocus/> Mouth_frothing </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Mouth_lesions" autofocus/> Mouth_lesions </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Nasal_discharge" autofocus/> Nasal_discharge </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Neck_swelling" autofocus/> Neck_swellingl </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Necrotic_stomatitis" autofocus/> Necrotic_stomatitis </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Off_feed" autofocus/> Off_feed </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Ocular_discharge" autofocus/> Ocular_discharge </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Oculonasal_discharge" autofocus/> Oculonasal_discharge </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Overfeeding" autofocus/> Overfeeding </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Paralysis" autofocus/> Paralysis </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Pica" autofocus/> Pica </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Poor_growth" autofocus/> Poor_growth </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Red_moist_feet" autofocus/> Red_moist_feet </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Respiratory_distress" autofocus/> Respiratory_distress </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Restlessness" autofocus/> Restlessness </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Salivation" autofocus/> Salivation </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Severe_itching" autofocus/> Severe_itching </p></li>
+
+            </ul>
+        </div>
+        <div class="col-md-4">
+            <ul>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Subnormal_temperature" autofocus/> Subnormal_temperature </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Sudden_death" autofocus/> Sudden_death </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Swollen_joints" autofocus/> Swollen_joints </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Tachypnea" autofocus/> Tachypnea </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Teat_hole_blockage" autofocus/> Teat_hole_blockage </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Teats_inflammation" autofocus/> Teats_inflammation </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Teats_lesions" autofocus/> Teats_lesions </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Temperature_fluctuation" autofocus/>Temperature_fluctuation </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Ticks_presence" autofocus/>Ticks_presence </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Tick_worry" autofocus/> Tick_worry </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Tremors" autofocus/> Tremors </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Udder_infection" autofocus/> Udder_infection</p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Udder_inflammation" autofocus/> Udder_inflammation </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Udder_lesion" autofocus/> Udder_lesion </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Uncoordinated_movements" autofocus/> Uncoordinated_movements </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Unable_to_stand" autofocus/> Unable_to_stand </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Urine_block" autofocus/> Urine_block </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Vaginal_infection" autofocus/>Vaginal_infection </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Wasting" autofocus/> Wasting </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Weakness" autofocus/> Weakness </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Weight_loss" autofocus/> Weight_loss </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Wheezes" autofocus/> Wheezes </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Worms_in_feaces" autofocus/> Worms_in_feaces </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Wounded" autofocus/> Wounded </p></li>
+
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Yellow_eyes" autofocus/> Yellow_eyes </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Yellow_mucous_membrane" autofocus/> Yellow_mucous_membrane </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Skin_lesion_red" autofocus/> Skin_lesion_red </p></li>
+
+                <li><p class="chk1"><input type="checkbox" class="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"
+                                           value="Skin_lesion" autofocus/> Skin_lesion </p></li>
+
+
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col text-center">
+            <button type="submit" class="btn btn-success">Predict
+            </button>
+        </div>
+    </div>
+</form>
+<br>
+<br>
+<div class="text-center">
+    <p style="text-align: center;  font-size: 26px;">
+        {{ prediction_text }}
+    </p>
+</div>
+
+
+</body>
+</html>

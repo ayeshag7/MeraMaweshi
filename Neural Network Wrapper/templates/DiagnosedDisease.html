@@ -1,0 +1,652 @@
+
+
+
+<!-- Code to prevent user from accessing any user specific page after logout/session-end -->
+ 
+
+
+
+
+ 
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       
+        <title>Mera Maweshi | Diagnosis Result</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Result of diagnosis" />
+        <meta name="keywords" content="Mera Maweshi, IDDSL, intelligent, diagnosis, diagnostic, disease, livestock, system, Pakistan" />
+        <meta name="author" content="Mera Maweshi Team" />
+        <style>
+                * {
+                  box-sizing: border-box;
+                }
+                .chk1{
+                    font-size: 15px;
+                }
+
+                /* Create two equal columns that floats next to each other */
+                .column {
+                  float: left;
+                  width: 33%;
+                  padding: 10px;
+                  height: 520px; /* Should be removed. Only for demonstration */
+                }
+                /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+                @media screen and (max-width: 600px) {
+                .column {
+                    width: 100%;
+                    }
+                /* Clear floats after the columns */
+                .row:after {
+                  content: "";
+                  display: table;
+                  clear: both;
+                }
+        </style>
+
+           
+        
+        <link rel="shortcut icon" type="image/icon" href="{{ url_for('static', filename='img/eLivestockLogo2.png') }}"/>
+   
+   <!-- CSS
+   ================================================== -->
+   <!-- Main structure css file -->
+   <link  href="{{ url_for('static', filename='css/style1.css') }}" rel="stylesheet">    
+   
+       
+   <!-- Bootstrap css file-->
+   <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+   <!-- Bootstrap theme files
+   <link href ="css/themes/red-theme.css" rel = "stylesheet"> -->
+   <!-- Font awesome css file-->
+   <link href="{{ url_for('static', filename='css/font-awesome.min.css') }}" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   
+   <!-- Default Theme css file -->
+   <link id="switcher" href="{{ url_for('static', filename='css/default-theme.css') }}" rel="stylesheet">   
+   <!-- Slick slider css file -->
+   <link href="{{ url_for('static', filename='css/slick.css') }}" rel="stylesheet"> 
+   <!-- Photo Swipe Image Gallery -->     
+   <link rel='stylesheet prefetch' href="{{ url_for('static', filename='css/photoswipe.css') }}">
+   <link rel='stylesheet prefetch' href="{{ url_for('static', filename='css/default-skin.css') }}">    
+
+   <!-- Google fonts -->
+   <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>  
+   <link href='http://fonts.googleapis.com/css?family=Habibi' rel='stylesheet' type='text/css'>   
+   <link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative:900' rel='stylesheet' type='text/css'>
+
+
+        
+        /* <!-- Global site tag (gtag.js) - Google Analytics --> */
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126019814-1"></script>
+    </head>
+
+    <body class = "service">
+        
+        <!-- BEGIN PRELOADER -->
+        <div id="preloader">
+            <div id="status">&nbsp;</div>
+        </div>
+        <!-- END PRELOADER -->
+
+        <!-- SCROLL TOP BUTTON -->
+         <a class="scrollToTop" href="#"><i class="fa fa-arrow-up"></i></a>
+        <!-- END SCROLL TOP BUTTON -->
+        
+        <!-- == BEGIN header == -->
+        
+
+
+
+
+
+<!--=========== BEGIN HEADER SECTION ================-->
+    <header id="header">
+      <!-- BEGIN MENU -->
+      <div class="menu_area">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">  
+          <div class="container">
+            <div class="navbar-header">
+              <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+              <!-- LOGO -->              
+              <!-- TEXT BASED LOGO -->
+              <!-- <a class="navbar-brand" href="index.jsp">Animal Disease Diagnosis Systems<span>Namal College</span></a> -->
+              <!-- IMG BASED LOGO  -->
+            
+            </div>
+            
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">                 
+                   
+                    <li><a href="Home">Home</a></li>  
+                      
+                        <li ><a href="Merapet">Mera Pet</a></li> 
+                        <li ><a href="BasicInfo">Mera Maweshi</a></li> 
+                                            
+                   
+                </ul>           
+            </div><!--/.nav-collapse -->
+          </div>     
+        </nav>  
+      </div>
+      <!-- END MENU -->    
+    </header>
+    <!--=========== END HEADER SECTION ================-->  
+    <!-- Display current username on his relevant pages -->
+    <script>
+        (function() {      
+                
+        })();
+    </script>
+    
+                    
+        <!-- END header -->
+        
+        <!-- == BEGIN Breadcrumb you are here == -->
+        <section id="blogArchive">      
+            <div class="row">
+              <div class="col-lg-12 col-md-12">
+                <div class="blog-breadcrumbs-area">
+                  <div class="container">
+                    <div class="blog-breadcrumbs-right">
+                      <ol class="breadcrumb">
+                          <br>
+                        <li>You are here</li>
+                        <li><a href="Home">Home</a></li>  
+                       
+                        <li ><a href="Merapet">Mera Pet</a></li> 
+                        <li ><a href="BasicInfo">Mera Maweshi</a></li>
+                        <li><a href="Meraimurghi" class = "about">Meri Murghi</a></li> 
+                        <li class="active">Diagnosis Result</li>
+                      </ol>
+                    </div>
+                  </div>
+                </div>
+              </div>        
+            </div>      
+        </section>
+        <!-- == END Breadcrumb you are here == -->
+
+        <div class="container">            
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="single-result-widget">
+                        <div class="section-heading">
+                            <h3>Chosen Clinical Signs</h3>
+                            <div class="line"></div>
+                        </div>           
+                        <ul class="result-service">
+                            {% for val in result %}
+                            
+                                <li><span class="fa fa-check"></span>{{val}} </li> 
+                            
+                               
+                            {% endfor %}
+
+                             
+                        </ul>
+                    </div>
+                </div>
+                
+              
+
+    
+     
+      
+  
+    
+
+                <div class="col-lg-4 col-md-4 col-sm-4 border_left">
+                    <div class="single-result-widget">
+                        <div class="section-heading">
+                            <h3>Diagnosis Result</h3>
+                            <div class="line"></div>
+                        </div>           
+                        <p>
+                            The system has diagnosed following disease in the  <h4>  {{ prediction_text }}</h4> 
+                        </p>
+                        
+                    </div>
+                </div>
+                        
+                <div class="col-lg-4 col-md-4 col-sm-4 border_left">
+                    <div class="single-result-widget">
+                        <div class="section-heading">
+                            <h3>Diagnosis Description</h3>
+                            <div class="line"></div>
+                        </div>           
+                        <p>
+                           <font color="blue"> {{prediction_text}}</font> - {{Description}}
+                        </p>
+                    </div>
+                </div> 
+            </div>
+                      
+            <div class = "row">                 
+                <div class="col-lg-12 col-md-12">
+                    <div class="service-area">
+                    <!-- Start Service Title -->
+                        <div class="section-heading">
+                            <h2>Treatment Suggestion</h2>
+                            <div class="line"></div><br/>
+                            <div class = "treatment">
+                                <h4 > The system suggests  following initial treatment for your Animal.</h4>
+                                <p >{{TreatmentDetails}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+            </div>
+                            
+            <div class = "row">                 
+                <div class="col-lg-12 col-md-12">
+                    <div class="service-area">
+                    <!-- Start Service Title -->
+                        <div class="section-heading">
+                            <h2>Diagnosis Analysis</h2>
+                            <div class="line"></div><br/>
+                            <div class = "treatment">
+                                
+                                
+                                       
+                                    
+                                        <p><h4>
+                                            The system is highly confident about its diagnosis. 
+                                            For further assistance you can talk to following consultant.
+                                        </h4></p>
+                                        
+                                    
+                                    
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+            </div>
+            <div class = "row">                 
+                <div class="col-lg-12 col-md-12">
+                    <div class="service-area">
+                    <!-- Start Service Title -->
+                        <div class="section-heading">
+                            <h2 >Are you okay with result?</h2>
+                           
+                            <!-- == Buttons div of input form == -->       
+        <div class="submit-button" style="text-align: center; vertical-align: middle; ">             
+            <input type="button" class="btn btn-primary" style="background-color: #f44336;" name="btn_back" value="No" onclick="showDiv()"/>
+           
+        </div> <!-- == End of Buttons div of input form == -->
+        <div class="line" style="margin-bottom:10px;"></div>
+       
+            <form  action="{{ url_for('RepeatbasicInfo')}}" method="post">
+
+            <input id="searchbar" onkeyup="search_diseases()" type="text"
+                name="search" placeholder="Search Actual disease.." style="display:none; height:40px;"    size="40">
+            <div><input type="reset" value="BackSpace"  id="backspace" onclick="search_diseases()" 
+                style="background-color: #337ab7; border: none; display:none; text-align: center; color: white; height:35px; width:75px; margin: 8px 0px 12px 0 ; border-radius: 8px;">
+            </div>
+        <div>
+            <div class= "col-sm-12">
+              <div id="diseases" style="display:none; " class="row">
+                  <ul>
+                    <div style="border: 1px groove #ffd133; margin-left:1rem; width: 300px; height:620px " class="column" >
+                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" value="Not_from_list" name="symptomsCheckboxGroup"   autofocus/> Not_from_list </p> 
+                            <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" value="Theilerio" name="symptomsCheckboxGroup"   autofocus/> Theileriosis </p> 
+                                                    
+                          <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="PPR"  autofocus/> PPR </p>
+                                                    
+                                                  <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Mastitis"  autofocus/> Mastitis </p> 
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"  value="Foot and Mouth Disease (FMD)" autofocus/> Foot and Mouth Disease (FMD) </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Worm Infestation" autofocus/> Worm Infestation </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"  value="Injury Trauma" autofocus/> Injury Trauma </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="GID"  autofocus/> GID </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Babesiosis"   autofocus/> Babesiosis </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Drenching Pneumonia" autofocus/> Drenching Pneumonia </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Tick Infestation"  autofocus/> Tick Infestation </p>
+
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"  value="Hyperthermia" autofocus/> Hyperthermia </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Pyrexia/ Infection/ Inflammation"  autofocus/> Pyrexia/ Infection/ Inflammation </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Lactic Acidosis"  autofocus/> Lactic Acidosis </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Red Nose"  autofocus/> Red Nose </p>
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Mange Infestation"  autofocus/> Mange Infestation </p>
+                                                       
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Ketosis"  autofocus/> Ketosis </p>
+
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Bladder calculi"  autofocus/> Bladder calculi </p>
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Cat fight"  autofocus/> Cat fight </p>
+                                                       
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Feline Calci virus"  autofocus/> Feline Calci virus </p>
+
+                                                       </div>
+                  
+                    <div style="border: 1px groove #ffd133; margin-left:1rem; width: 300px; height:620px" class="column" >
+                                                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="TRP (Traumatic Reticuloperitonitis)"  autofocus/> TRP (Traumatic Reticuloperitonitis) </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Digestive System Disorder"   autofocus/> Digestive System Disorder </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Hypothermia"  autofocus/> Hypothermia </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Vitamins and Minerals Deficiency"   autofocus/> Vitamins and Minerals Deficiency </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Milk Fever" autofocus/> Milk Fever </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Anthrax"  autofocus/> Anthrax </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Black Quarter"  autofocus/> Black Quarter </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Haemorrhagic Septicaemia"  autofocus/> Haemorrhagic Septicaemia </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Upper Respiratory Tract Infection" autofocus/> Upper Respiratory Tract Infection </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Fasciolosis"   autofocus/> Fasciolosis </p>
+
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup"  value="Urine Retention"  autofocus/> Urine Retention </p>
+                                                    
+                                                       <p class ="chk1">  <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Wooden Tongue"  autofocus/> Wooden Tongue </p>
+                                                        
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Caseous lymphadenitis "  autofocus/> Caseous lymphadenitis  </p>
+                                                        
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Impaction/Constipation"  autofocus/> Constipation </p>
+                                                    
+                                                       <p class ="chk1">  <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Red water disease"  autofocus/> Red water disease </p>
+                                                        
+                                                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Lumpy Skin Disease"  autofocus/> Lumpy Skin Disease </p>
+                                                       
+                                                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Flea Bite"  autofocus/> Flea Bite </p>
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Fungal Infection"  autofocus/> Fungal Infection </p>
+                                                       
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Gastritis"  autofocus/> Gastritis </p>
+                                                      
+                    </div>
+                    <div style="border: 1px groove #ffd133; margin-left:1rem; width: 300px; height:620px" class="column" >
+                                                      <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup1" name="symptomsCheckboxGroup" value="Tympany/ Bloat"   autofocus/> Tympany/ Bloat </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Arthritis"  autofocus/> Arthritis </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Sheep n Goat Pox"  autofocus/> Sheep n Goat Pox </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Throat Infection"  autofocus/> Throat Infection </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Plant/Feed Toxicity" autofocus/> Plant/Feed Toxicity </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Anaplasmosis"  autofocus/> Anaplasmosis </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Jaundice"  autofocus/> Jaundice </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Foot Rot"  autofocus/> Foot Rot </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Phosphorus Deficiency" autofocus/> Phosphorus Deficiency </p>
+                                                    
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Infectious Diarrhea"  autofocus/> Infectious Diarrhea </p>
+
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Rabies and Injury"  autofocus/> Rabies and Injury </p>
+                                                       
+                                                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Infectious Pneumonia"  autofocus/> Infectious Pneumonia </p>
+                                                        
+                                                        <p class ="chk1">  <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Pink eye"  autofocus/> Pink eye </p>
+                                                        
+                                                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Trypanosomiasis"  autofocus/> Trypanosomiasis </p>
+
+                                                        <p class ="chk1">  <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Contagious Caprine Pleuropneumonia"  autofocus/> Contagious Caprine Pleuropneumonia </p>
+                                                        
+                                                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Calf Scour"  autofocus/> Calf Scour </p>
+                                                        <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Muscular pain"  autofocus/> Muscular pain </p>
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Acute hemorrhagic Diarrhea"  autofocus/> Acute hemorrhagic Diarrhea </p>
+                                                       
+                                                       <p class ="chk1"> <input type="checkbox" class ="chk" id="checkBoxGroup" name="symptomsCheckboxGroup" value="Swollen_Jaw"  autofocus/> Swollen_Jaw </p>
+                    </div>
+                </div>
+                  </ul>
+               
+              <div style="margin-bottom: 30px; text-align: center; vertical-align: middle;" class="submit-button">
+                  <br>
+                  <input type="submit"  style="display:none; margin-top: 0px;" id="submit_button" class="btn btn-success" name="btn_FuzzyCBR" value="Submit Your Result"  />
+            
+               </div> <!-- == End of Buttons div of input form == -->
+              </div>
+          </form>
+        
+       
+        
+       
+        
+                        </div>
+                    </div>
+                </div>  
+            </div>
+        </div>
+        <br><br>
+        
+        
+        
+        <!-- == Buttons div of input form == -->  
+        <form  action="{{ url_for('RepeatbasicInfo')}}" method="post">     
+        <div class="submit-button" style="text-align: center; vertical-align: middle; ">             
+            <input type="submit" class="btn btn-primary" style="margin-bottom: 1rem;" name="btn_back" value="Back" onclick="goBack()"/>
+            <input type="submit" class="btn btn-success" style=" margin-bottom: 1rem;" name="btn_submit" value="Do A New Diagnosis" action="{{ url_for('RepeatbasicInfo')}}" />
+        </div> 
+        </form>
+        <!-- == End of Buttons div of input form == -->
+        
+        
+        
+         <!-- footer.jsp integrates here -->
+        
+
+       
+
+<!--=========== Start Footer SECTION ================-->
+        <footer id="footer">
+          <!-- Start Footer Top -->
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="single-footer-widget">
+                                <div class="section-heading">
+                                    <h2>About Us</h2>
+                                    <div class="line"></div>
+                                </div>           
+                                <p>
+                                    <a href = "http://rail.namal.edu.pk/" target="_blank">Rural and Agriculture Informatics Lab (RAIL)</a> at Namal University Mianwali is providing
+                                    easy to use solutions to the problems of rural farmer communities of Pakistan. <br/>Intelligent Disease
+                                    Diagnosis System for Livestock in Rural Pakistan is one of the projects of RAIL, funded by
+                                    <a href = "https://ignite.org.pk/" target="_blank">Ignite, National Technology Fund, Government of Pakistan</a>.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="single-footer-widget">
+                                <div class="section-heading">
+                                    <h2>Our Service</h2>
+                                    <div class="line"></div>
+                                </div>
+                                <ul class="footer-service">
+                                    <li>
+                                        <a href="diagnosis"><span class="fa fa-circle-o"></span>Disease Diagnosis</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="single-footer-widget">
+                                <div class="section-heading">
+                                    <h2>Contact Info</h2>
+                                    <div class="line"></div>
+                                </div>
+                                <p>Rural and Agricultural Informatics Lab (RAIL), <br> Namal University Mianwali, Pakistan</p>
+                                <address class="contact-info">
+                                    <p><span class="fa fa-home"></span>30 KM, Talagand Road Mianwali</p>
+                                    <p><span class="fa fa-phone"></span>+92 459 236995 Ext. 126</p>
+                                    <p><span class="fa fa-envelope"></span>rail@namal.edu.pk</p>
+                                </address>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          <!-- Start Footer Middle -->
+            <div class="footer-middle">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="footer-copyright">
+                                <p>&copy; Copyright 
+                                            
+                                            2022 
+                                            . Namal University Mianwali</p>
+                            </div>
+                        </div>
+                  
+                    </div>
+                </div>
+            </div>
+          <!-- Start Footer Bottom -->
+
+        </footer>
+        <!--=========== End Footer SECTION ================-->
+
+    </body>
+
+</html>
+
+
+        <!-- including JS and JQuery scripts -->
+        
+    
+        <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>    
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    
+        <!-- Bootstrap default js -->
+        <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    
+        <!-- slick slider -->
+        <script src="{{ url_for('static', filename='js/slick.min.js') }}"></script>    
+        <script type="text/javascript" src="{{ url_for('static', filename='js/modernizr.custom.79639.js') }}"></script> 
+    
+        <!-- counter -->
+        <script src="{{ url_for('static', filename='js/waypoints.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/jquery.counterup.min.js') }}"></script>
+    
+        <!-- Doctors hover effect -->
+        <script src="{{ url_for('static', filename='js/snap.svg-min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/hovers.js') }}"></script>
+    
+        <!-- Photo Swipe Gallery Slider -->
+        <script src="{{ url_for('static', filename='js/photoswipe.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/photoswipe-ui-default.min.js') }}"></script>    
+        <script src="{{ url_for('static', filename='js/photoswipe-gallery.js') }}"></script>
+    
+        <!-- Custom JS -->
+        <script src="{{ url_for('static', filename='js/custom.js') }}"></script>
+    
+        <!-- Form inputs checker JS -->
+        <script src="{{ url_for('static', filename='js/option_selector.js') }}"></script>
+        <script src="js/symptom_seletor.js"></script>
+        
+        <script src="{{ url_for('static', filename='js/google_analytic.js') }}"></script>  
+    <!-- Java Script for validation -->
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/additional-methods.min.js"></script>-->
+ 
+        
+        
+        <!--Script to disable submit button until a symptom is selected 
+         <script src="js/disable_button.js"></script>    -->
+        <script src="js/option_selector.js"></script> 
+    <!-- Java Script for validation -->
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/additional-methods.min.js"></script>-->
+ 
+        
+        <!--Back button functionality -->
+        <script>
+            function showDiv() {
+                   document.getElementById('diseases').style.display = "inline-block";
+                   document.getElementById('searchbar').style.display = "inline-block";
+                   document.getElementById('backspace').style.display = "inline-block";
+                   document.getElementById('submit_button').style.display = "inline-block";
+             }
+             
+              function search_diseases() {
+    let input = document.getElementById('searchbar').value;
+    
+    input=input.toLowerCase();
+    let x = document.getElementsByClassName('chk1');
+    console.log(x.length); 
+    for (i = 0; i < x.length; i++) { 
+        if (!x[i].innerHTML.toLowerCase().includes(input)) {
+            x[i].style.display="none";
+        }
+        else {
+            x[i].style.display="list-item";
+          
+            
+        }
+      
+    }
+    x.style.type="none";
+}
+function show_diseases() {
+    
+    let x = document.getElementsByClassName('chk1');
+    let y = document.getElementsByClassName('chk');
+    
+//    yy= document.querySelectorAll("input[type='checkbox']");
+//    
+//    console.log("12")
+//    console.log(yy)
+//   // console.log(document.getElementById("checkBoxGroup1").checked);
+//    x1= document.getElementById("checkBoxGroup1");
+//    yy.forEach(function(my){
+//        my.defaultChecked=true;
+//    });
+   // x1.checked=true;
+        //console.log(document.getElementById("checkBoxGroup1").checked);
+        for (i = 0; i < x.length; i++) { 
+            x[i].style.display="list-item";
+            if(y[i].checked == true)
+            {   
+                console.log(y[i].checked);
+                y[i].defaultChecked = true;
+                console.log(y[i].checked);
+            }
+            
+             
+    }
+}
+        </script>
+        <script src="js/goBack.js"></script>
+       

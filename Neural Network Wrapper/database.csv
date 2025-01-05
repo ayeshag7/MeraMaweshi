@@ -1,0 +1,393 @@
+"08/10/2022, 10:50:00"
+Cattle,Male
+Nasal_discharge,Swollen_throat,Mouth_lesions,Feet_lesions,Ocular_discharge,Salivation,Anorexia,Mouth_discharge,Poor_growth,Weakness,Weight_loss,Fever,Depression,Dullness,Udder_lesion
+Haemorrhagic Septicaemia
+suggested_disease,Foot and Mouth Disease (FMD)
+"08/10/2022, 10:58:49"
+Goat,Female
+"08/10/2022, 10:58:49"
+Goat,Female
+Nasal_discharge,Oculonasal_discharge,Mouth_lesions,Feet_lesions,Anorexia,Emaciation,Mouth_discharge,Poor_growth,Weakness,Weight_loss,Off_feed,Fever,Depression
+PPR
+suggested_disease
+"08/10/2022, 11:02:46"
+Buffalo,Female
+Fever,Changed_milk_taste,Milk_reduction,Teats_lesions,Udder_lesion,Milk_abnormalities,Teats_inflammation,Udder_infection,Udder_inflammation
+Mastitis
+suggested_disease
+"08/10/2022, 11:03:36"
+Buffalo,Male
+Nasal_discharge,Mouth_lesions,Feet_lesions,Salivation,Anorexia,Off_feed,Fever
+Foot and Mouth Disease (FMD)
+suggested_disease
+"08/10/2022, 11:04:49"
+Sheep,Female
+Ticks_presence,Severe_itching,Weakness,Weight_loss,Worms_in_feaces,Fever
+Worm Infestation
+suggested_disease
+"08/10/2022, 11:06:26"
+Sheep,Male
+Anorexia,Fever,Circling,Trembling,Depression,Tremors,Head_pressing
+GID
+suggested_disease
+"08/10/2022, 11:07:59"
+Cattle,Female
+Ticks_presence,Tick_worry,Severe_itching,Yellow_mucous_membrane,Anemia,Poor_growth,Weakness,Weight_loss,Fever,Depression,Blood_in_urine
+Tick Infestation
+suggested_disease
+"08/10/2022, 11:10:55"
+Cattle,Female
+Cough,Nasal_discharge,Faulty_drenching
+Drenching Pneumonia
+suggested_disease
+"08/10/2022, 11:11:34"
+Sheep,Male
+Dehydration,Fever,Depression,Dullness
+Infectious Diarrhea
+suggested_disease,Hyperthermia
+"08/10/2022, 11:13:08"
+Buffalo,Female
+"08/10/2022, 11:22:34"
+Buffalo,Female
+Wounded,Injury,Anorexia,Fever,Depression,Dullness
+Hyperthermia
+suggested_disease,Pyrexia/ Infection/ Inflammation
+"08/10/2022, 11:24:20"
+Cattle,Female
+Abdominal_pain,Anorexia,Constipation,Weakness,Off_feed,Subnormal_temperature,Restlessness
+Tympany/ Bloat
+suggested_disease,Lactic Acidosis
+"08/10/2022, 11:26:45"
+Cattle,Male
+Mouth_frothing,Salivation,Abdominal_distention_left_side,Gas_accumulation,Depression,Dullness
+Trypanosomiasis
+suggested_disease,Tympany/ Bloat
+"08/10/2022, 11:33:19"
+Cattle,Female
+Change_in_diet,Pica,Wasting,Off_feed,Fever,Dullness
+Haemorrhagic Septicaemia
+suggested_disease,Vitamins and Minerals Deficiency,Phosphorus Deficiency
+"08/10/2022, 11:36:29"
+Cattle,Female
+"08/10/2022, 11:38:18"
+Cattle,Female
+Tachypnea,Anorexia,Weakness,Temperature_fluctuation,Unable_to_stand,Depression,Dullness,Milk_reduction
+Pyrexia/ Infection/ Inflammation
+suggested_disease,Milk Fever
+"08/10/2022, 11:40:54"
+Buffalo,Male
+Sudden_death,Blood_leakage_from_natural_holes_of_dead_animal,Fever,Increased_heart_rate,Depression
+Anthrax
+suggested_disease
+"08/10/2022, 11:41:47"
+Cattle,Male
+Fever,Crepitation,Lameness,Paralysis,Unable_to_stand,Difficult_movement,Depression,Dullness
+Mastitis
+suggested_disease,Black Quarter
+"08/10/2022, 11:44:06"
+Cattle,Female
+Nasal_discharge,Dyspnea,Oculonasal_discharge,Respiratory_distress,Sudden_death,Tachypnea,Salivation,Neck_swelling,Anorexia,Poor_growth,Weakness,Weight_loss,Fever,Depression,Dullness
+Haemorrhagic Septicaemia
+suggested_disease
+"08/10/2022, 11:45:32"
+Goat,Male
+Wheezes,Cough,Nasal_discharge,Sneezing,Swollen_throat,Thorat_pain,Anorexia,Fever,Depression,Dullness
+Infectious Phenomnia
+suggested_disease
+"08/10/2022, 11:53:01"
+Sheep,Female
+Yellow_mucous_membrane,Yellow_eyes,Injury,Abdominal_pain,Anemia,Weakness,Worms_in_feaces,Fever,Depression,Dullness
+Fasciolosis
+suggested_disease
+"08/10/2022, 11:55:12"
+Goat,Male
+Fever,Depression,Dullness,Urine_block
+Hyperthermia
+suggested_disease,Urine Retention
+"08/10/2022, 11:56:48"
+Buffalo,Female
+"08/10/2022, 12:00:35"
+Buffalo,Female
+Constipation,Gas_accumulation,Hard_feaces,Off_feed,Depression,Dullness
+Impaction/Constipation
+suggested_disease
+"08/10/2022, 12:02:39"
+Cattle,Female
+Yellow_mucous_membrane,Yellow_eyes,Anemia,Poor_growth,Fever,Circling,Depression,Tremors,Dullness,Enlarged_lymph_nodes,Milk_reduction
+Milk Fever
+suggested_disease,Trypanosomiasis
+"08/10/2022, 12:05:17"
+Goat,Female
+"08/10/2022, 12:14:31"
+Goat,Female
+Dyspnea,Mouth_frothing,Salivation,Abdominal_pain,Anorexia,Emaciation,Mouth_discharge,Poor_growth,Weakness,Weight_loss,Dehydration,Wasting,Fever,Uncoordinated_movements,Depression,Excitements
+Digestive System Disorder
+suggested_disease
+"08/10/2022, 12:17:44"
+Sheep,Female
+Phoyophia,Yellow_mucous_membrane,Yellow_eyes,Abdominal_distention_left_side,Anemia,Anorexia,Diarrhea,Weakness,Wasting,Fever,Depression,Dullness
+Fasciolosis
+suggested_disease
+"08/10/2022, 12:19:29"
+Goat,Male
+Diarrhea,Emaciation,Weakness,Weight_loss,Dehydration,Lose_feaces,Wasting,Dysentary_infection_in_intestines,less_regurgitation,Fever,Depression,Dullness
+Calf Scour
+suggested_disease
+"08/10/2022, 12:21:11"
+Cattle,Female
+Salivation,Fever,Increased_heart_rate,Paralysis,Unable_to_stand,Uncoordinated_movements,Dog_bite,Circling,Trembling,Tremors,Excitements,Apathy_lose_interest,Unusal_posture,Milk_reduction
+Pyrexia/ Infection/ Inflammation
+suggested_disease,Rabies and Injury
+"08/10/2022, 12:23:24"
+Cattle,Female
+Severe_itching,Skin_lesion,Skin_lesion_red,Itching,Skin_holes,Skin_nodules,Anorexia,Off_feed,Fever,Enlarged_lymph_nodes,Milk_reduction
+Worm Infestation
+suggested_disease,Lumpy Skin Disease
+"08/10/2022, 12:25:11"
+Cattle,Male
+"08/10/2022, 12:42:26"
+Cattle,Female
+"08/10/2022, 12:43:48"
+Cattle,Female
+Yellow_mucous_membrane,Yellow_eyes,Injury,Abdominal_pain,Anemia,Weakness,Worms_in_feaces,Fever,Depression,Dullness
+Fasciolosis
+suggested_disease
+"08/10/2022, 12:45:08"
+Buffalo,Female
+Hair_loss,Ticks_presence,Yellow_mucous_membrane,Yellow_eyes,Anemia,Anorexia,Fever,Depression,Restlessness,Dullness,Blood_in_urine,Milk_reduction
+Babesiosis
+suggested_disease
+"08/10/2022, 12:48:30"
+Buffalo,Female
+Fever,Changed_milk_taste,Milk_reduction,Teats_lesions,Udder_lesion,Milk_abnormalities,Teats_inflammation,Udder_infection
+Mastitis
+suggested_disease
+"08/10/2022, 12:49:04"
+Sheep,Male
+Fever,Uncoordinated_movements,Circling,Head_pressing,Excitements,Apathy_lose_interest,Unusal_posture
+Pyrexia/ Infection/ Inflammation
+suggested_disease,GID
+"08/10/2022, 12:50:31"
+Buffalo,Male
+Cough,Nasal_discharge,Dyspnea,Oculonasal_discharge,Faulty_drenching
+Drenching Pneumonia
+suggested_disease
+"08/10/2022, 12:51:25"
+Cattle,Female
+Hair_loss,Ticks_presence,Severe_itching,Skin_lesion,Itching,Yellow_mucous_membrane,Yellow_eyes,Worms_in_feaces,Lose_feaces,Worms,Fever
+Worm Infestation
+suggested_disease
+"08/10/2022, 12:54:59"
+Cattle,Male
+Abdominal_distention_left_side,Abdominal_pain,Anorexia,Change_in_diet,Diarrhea,Gas_accumulation,Mouth_discharge,Weakness,Weight_loss,Dehydration,Wasting,Off_feed,Dysentary_infection_in_intestines,Fever,Depression,Dullness
+Digestive System Disorder
+suggested_disease
+"08/10/2022, 13:01:19"
+Goat,Male
+Anorexia,Change_in_diet,Constipation,Emaciation,Pica,Poor_growth,Weakness,Weight_loss,Depression,Dullness
+Phosphorus Deficiency
+suggested_disease
+"08/10/2022, 13:03:24"
+Buffalo,Female
+Tachypnea,Salivation,Subnormal_temperature,Paralysis,Unable_to_stand,Uncoordinated_movements,Depression,Dullness,Milk_reduction
+Milk Fever
+suggested_disease
+"08/10/2022, 13:08:29"
+Goat,Male
+Fever,Depression,Dullness
+Hyperthermia
+suggested_disease
+"08/10/2022, 13:09:09"
+Cattle,Male
+Fever,Swollen_joints,Unable_to_stand,Difficult_movement,Knee_swelling
+Pyrexia/ Infection/ Inflammation
+suggested_disease,Arthritis
+"08/10/2022, 13:11:17"
+Buffalo,Female
+Ticks_presence,Tick_worry,Severe_itching,Skin_lesion,Itching,Weakness,Wasting,Worms,Fever
+Tick Infestation
+suggested_disease
+"08/10/2022, 13:20:58"
+Goat,Male
+Salivation,Fever,Uncoordinated_movements,Dog_bite,Restlessness,Tremors,Excitements,Unusal_posture
+Foot Rot
+suggested_disease,Rabies and Injury
+"08/10/2022, 13:24:52"
+Goat,Female
+Diarrhea,Poor_growth,Weakness,Weight_loss,Dehydration,Lose_feaces,Wasting,Dysentary_infection_in_intestines,Enlarged_rumen,less_regurgitation,Fever
+Infectious Diarrhea
+suggested_disease
+"08/10/2022, 13:27:37"
+Cattle,Male
+Nasal_discharge,Mouth_lesions,Feet_lesions,Salivation,Foot_Wounded,Fever,Depression,Dullness,Enlarged_lymph_nodes,Teats_lesions
+Foot and Mouth Disease (FMD)
+suggested_disease
+"08/10/2022, 13:29:18"
+Sheep,Male
+Cough,Nasal_discharge,Dyspnea,Oculonasal_discharge,Mouth_lesions,Feet_lesions,Ocular_discharge,Mouth_frothing,Salivation,Anorexia,Fever,Depression,Dullness
+Foot and Mouth Disease (FMD)
+suggested_disease,PPR
+"08/10/2022, 13:46:49"
+Cattle,Male
+Facial_distortion,Salivation,Injury,pus_discharge_yellow_liquid_at_infection,Skin_holes,Skin_nodules,Anorexia,Emaciation,Weakness,Weight_loss,Fever,Bottle_jaw,Depression,Dullness,Milk_reduction
+Infectious Diarrhea
+suggested_disease,Not_from_list
+"08/10/2022, 13:50:02"
+Goat,Female
+Fever,Depression,Changed_milk_taste,Milk_reduction,Teats_lesions,Udder_lesion,Milk_abnormalities,Teats_inflammation,Udder_infection,Udder_inflammation
+Mastitis
+suggested_disease
+"08/10/2022, 13:51:08"
+Cattle,Male
+Abdominal_pain,Diarrhea,Poor_growth,Weakness,Weight_loss,Dehydration,Lose_feaces,Wasting,Off_feed,Dysentary_infection_in_intestines,Fever
+Digestive System Disorder
+suggested_disease
+"08/10/2022, 13:56:02"
+Cattle,Male
+Cough,Sudden_death,Tachypnea,Mouth_frothing,Salivation,Abdominal_distention_left_side,Abdominal_pain,Anorexia,Emaciation,Gas_accumulation,Uncoordinated_movements,Trembling,Depression,Restlessness,Dullness,Unusal_posture
+Trypanosomiasis
+suggested_disease,Plant/Feed Toxicity
+"08/10/2022, 13:58:27"
+Goat,Male
+Pox_lesion,Injury,Skin_holes,Skin_nodules,Anorexia,Fever,Depression,Dullness
+Rabies and Injury
+suggested_disease,Sheep n Goat Pox
+"08/10/2022, 14:04:32"
+Cattle,Male
+Fever,Swollen_joints,Unable_to_stand,Uncoordinated_movements,Difficult_movement,Knee_swelling
+Pyrexia/ Infection/ Inflammation
+suggested_disease,Arthritis
+"08/10/2022, 14:05:28"
+Buffalo,Male
+Cough,Nasal_discharge,Swollen_throat,Thorat_pain,Fever
+Hypothermia
+suggested_disease,Throat Infection
+"08/10/2022, 14:06:44"
+Cattle,Male
+Yellow_mucous_membrane,Yellow_eyes,Injury,Abdominal_pain,Anemia,Weakness,Weight_loss,Worms_in_feaces,Wasting,Fever,Depression,Dullness
+Fasciolosis
+suggested_disease
+"08/10/2022, 14:08:52"
+Cattle,Female
+Dullness,Changed_milk_taste,Milk_reduction,Teats_lesions,Udder_lesion,Milk_abnormalities,Teats_inflammation,Udder_inflammation
+Mastitis
+suggested_disease
+"08/10/2022, 14:09:24"
+Cattle,Female
+Skin_holes,Skin_nodules,Anorexia,Poor_growth,Weakness,Weight_loss,Off_feed,Fever,Dullness,Enlarged_lymph_nodes,Milk_reduction
+Infectious Diarrhea
+suggested_disease,Lumpy Skin Disease
+"08/10/2022, 14:14:45"
+Cattle,Female
+Mouth_frothing,Salivation,Abdominal_distention_left_side,Abdominal_pain,Anorexia,Constipation,Gas_accumulation,Hard_feaces,Depression,Dullness
+Red water disease
+suggested_disease,Tympany/ Bloat
+"08/10/2022, 14:15:55"
+Buffalo,Female
+Nasal_discharge,Dyspnea,Oculonasal_discharge,Mouth_lesions,Feet_lesions,Salivation,Anorexia,Mouth_discharge,Poor_growth,Weight_loss,Fever,Depression,Dullness,Milk_reduction
+Haemorrhagic Septicaemia
+suggested_disease,Foot and Mouth Disease (FMD)
+"08/10/2022, 14:17:57"
+Cattle,Female
+Wheezes,Cough,Nasal_discharge,Dyspnea,Respiratory_distress,Mouth_frothing,Salivation,Neck_swelling,Anorexia,Fever,Milk_reduction
+Haemorrhagic Septicaemia
+suggested_disease
+"08/10/2022, 14:36:05"
+Cattle,Male
+Change_in_diet,Emaciation,Pica,Poor_growth,Weakness,Weight_loss
+Phosphorus Deficiency
+suggested_disease
+"08/10/2022, 14:36:56"
+Sheep,Male
+Constipation,Gas_accumulation,Hard_feaces,Off_feed
+Impaction/Constipation
+suggested_disease
+"08/10/2022, 14:39:57"
+Buffalo,Female
+Temperature_fluctuation,Decreased_heart_rate,Paralysis,Unable_to_stand,Uncoordinated_movements,Depression,Dullness,Recently_Parturated_giving_bith
+Milk Fever
+suggested_disease
+"08/10/2022, 14:42:06"
+Cattle,Male
+Depression,Restlessness,Dullness,Urine_block
+Haemorrhagic Septicaemia
+suggested_disease,Urine Retention
+"08/10/2022, 14:43:09"
+Cattle,Female
+Cough,Nasal_discharge,Dyspnea,Sneezing,Swollen_throat,Thorat_pain,Fever,Depression,Dullness
+Haemorrhagic Septicaemia
+suggested_disease,Infectious Pneumonia
+"08/10/2022, 14:44:12"
+Cattle,Female
+Fever,Dullness,Changed_milk_taste,Milk_reduction,Udder_lesion,Milk_abnormalities,Udder_infection,Udder_inflammation
+Mastitis
+suggested_disease
+"08/10/2022, 14:44:43"
+Sheep,Male
+Salivation,Anorexia,Fever,Increased_heart_rate,Uncoordinated_movements,Dog_bite,Trembling,Tremors,Excitements,Unusal_posture
+Pyrexia/ Infection/ Inflammation
+suggested_disease,Rabies and Injury
+"08/10/2022, 14:45:46"
+Buffalo,Female
+Hair_loss,Ticks_presence,Tick_worry,Severe_itching,Skin_lesion,Itching,Yellow_mucous_membrane,Anemia,Worms,Fever,Dullness
+Babesiosis
+suggested_disease,Tick Infestation
+"08/10/2022, 14:47:39"
+Cattle,Female
+Ticks_presence,Tick_worry,Severe_itching,Skin_lesion,Itching,Yellow_mucous_membrane,Anemia,Worms,Fever,Depression,Dullness,Milk_reduction
+Babesiosis
+suggested_disease
+"08/10/2022, 14:48:36"
+Cattle,Male
+Fever,Crepitation,Lameness,Paralysis,Swollen_joints,Unable_to_stand,Difficult_movement,Depression,Dullness
+Black Quarter
+suggested_disease
+"08/10/2022, 14:49:07"
+Goat,Male
+Cough,Sneezing,Swollen_throat,Thorat_pain,Fever,Depression,Dullness
+Haemorrhagic Septicaemia
+suggested_disease,Throat Infection
+suggested_disease
+"08/10/2022, 16:38:15"
+Cattle,Male
+suggested_disease,Swollen_Jaw
+"08/10/2022, 16:41:26"
+Buffalo,Female
+suggested_disease,Digestive System Disorder
+suggested_disease,TRP (Traumatic Reticuloperitonitis)
+suggested_disease,TRP (Traumatic Reticuloperitonitis)
+suggested_disease,Throat Infection
+suggested_disease
+"08/22/2022, 09:39:21"
+Cattle,Male
+Mouth_lesions,Feet_lesions,Ocular_discharge
+Foot and Mouth Disease (FMD)
+"08/22/2022, 11:23:27"
+Buffalo,Male
+"08/22/2022, 11:24:50"
+Buffalo,Male
+Blood_in_urine
+Phosphorus Deficiency
+"08/23/2022, 09:54:38"
+Buffalo,Male
+Skin_holes,Skin_nodules
+Lumpy Skin Disease
+"08/23/2022, 10:05:47"
+Buffalo,Male
+"08/23/2022, 10:07:08"
+Buffalo,Male
+"08/23/2022, 10:08:28"
+Cattle,Male
+Skin_holes,Skin_nodules
+Lumpy Skin Disease
+"08/23/2022, 10:09:08"
+Buffalo,Male
+Hair_loss,Red_moist_feet,Wounded,Skin_holes,Skin_nodules,Weight_loss,Overfeeding,Dysentary_infection_in_intestines,Enlarged_rumen,less_regurgitation
+Lumpy Skin Disease
+suggested_disease
+"08/23/2022, 10:11:46"
+Cattle,Female
+Mouth_frothing,Salivation,Abdominal_distention_left_side,Gas_accumulation,Depression
+Tympany/ Bloat
+"08/23/2022, 11:26:28"
+Buffalo,Female

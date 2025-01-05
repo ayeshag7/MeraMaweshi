@@ -1,0 +1,21 @@
+Name,Sex,Abdominal_pain,Aboriton,Anemia,Anorexia,Bloody_cough,Bloody_Diarrhea,Bruised_mouth_nose,Cough,Chronic_cough,Deficiency_in_blood,Depression,Dehydration,Diarrhea,Dyspnea,Enlarged_lymph_nodes,Excessive_urine,Eye_Inflammation,Fatty_Stool,Fever,Hypersensitivity_to_light,Intolerance_to_food,Itching,Itching_in_Nose,Lameness,Lack_of_energy,lost_control_over_mind,Loose_stool,Loud_cough,Mouth_lesions,Mucus_in_stool,Nasal_discharge,Necrotic_stomatitis,No_Vaccination,Ocular_discharge,Off_feed,Paralysis,Red_doted_skin,Respiratory_distress,Rigid_limbs,Salivation,Severe Thirst,Skin_lesion_red,Sneezing,Swollen_tonsils,Ticks_presence,Tremors,uveitis-severs_pain_in_visible_part_of_eye,Vomiting,Weight_loss,Wheezes,Wounded,DiseaseName
+Dog ,Female,,,,0.9,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,0.9,,,,Canine distemper virus infection
+Dog ,Male,,,,,,0.9,,,,,0.9,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,0.9,,,,Canine Parvo_virus infection
+Dog ,Male,0.9,,,0.9,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,Leptospirosis
+Dog ,Female,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,0.9,,,0.9,,,,,,,,,,0.9,,,,,,0.9,,Kennel Cough
+Cat,Female,,,,,,,,,,,,,0.9,,,,,0.9,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,Guardiasis
+Cat,Female,,0.9,0.9,0.9,,,,,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,Toxoplosmosis
+Dog ,Female,,,,,,,,,0.9,,,,0.9,,,,,,0.9,,,,,0.9,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,0.9,,,Histoplasmosis
+Dog ,Male,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,Canine influenza
+Dog ,Male ,,,,,,,0.9,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,0.9,0.9,,,,,,,Canine infectious Heptatis
+Dog ,Male,,,,,,,,,,,,,,,,,,,0.9,0.9,0.9,,,,,0.9,,,0.9,,,,,,,0.9,,,,0.9,,,,,,,,,,,,Rabies
+Dog ,Female,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,,,0.9,0.9,,,,,,,0.9,,,,,0.9,Tetanus
+Cat,Female,,,,,,,,,,,,,0.9,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,Cryptospoidiosis
+Cat,Female,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia
+Cat,Male,,,,0.9,,,,,,,0.9,0.9,0.9,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,0.9,,,0.9,,,,Feline Panleukopemia
+Dog,Male,,,,,,,,0.9,,,,,,0.9,0.9,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,Anaplasmosis
+Dog,Female,,,,,0.9,0.9,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canine Infectious Respiratory
+Cat,Male,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,0.9,Ringworm
+Dog,Male,,,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,0.9,,,0.9,0.9,,,,,,,,,,,,,,,,,Canine distemper virus infection
+Cat,Female,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,Indigestation
+Dog,Male,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,Rhinitis

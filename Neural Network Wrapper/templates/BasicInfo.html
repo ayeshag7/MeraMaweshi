@@ -1,0 +1,331 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Mera Maweshi | Farmer and Animal's Description</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Livestock Basic Information" />
+        <meta name="keywords" content="Mera Maweshi, IDDSL, age, type, sex, gender, heigene, sex, animal, description" />
+        <meta name="author" content="Mera Maweshi Team" />
+
+        <!-- including CSS Links -->    
+        <!-- CSS
+        ================================================== -->
+        <!-- Main structure css file -->
+       <!-- CSS
+        ================================================== -->
+        <!-- Main structure css file -->
+        <link  href="{{ url_for('static', filename='css/style1.css') }}" rel="stylesheet">    
+        
+            
+        <!-- Bootstrap css file-->
+        <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+        <!-- Bootstrap theme files
+        <link href ="css/themes/red-theme.css" rel = "stylesheet"> -->
+        <!-- Font awesome css file-->
+        <link href="{{ url_for('static', filename='css/font-awesome.min.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <!-- Default Theme css file -->
+        <link id="switcher" href="{{ url_for('static', filename='css/default-theme.css') }}" rel="stylesheet">   
+        <!-- Slick slider css file -->
+        <link href="{{ url_for('static', filename='css/slick.css') }}" rel="stylesheet"> 
+        <!-- Photo Swipe Image Gallery -->     
+        <link rel='stylesheet prefetch' href="{{ url_for('static', filename='css/photoswipe.css') }}">
+        <link rel='stylesheet prefetch' href="{{ url_for('static', filename='css/default-skin.css') }}">    
+    
+        <!-- Google fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>  
+        <link href='http://fonts.googleapis.com/css?family=Habibi' rel='stylesheet' type='text/css'>   
+        <link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative:900' rel='stylesheet' type='text/css'>
+
+    </head>
+
+    <body class = "service">
+        <!-- BEGIN PRELOADER -->
+        
+        <!-- END PRELOADER -->
+
+        <!-- SCROLL TOP BUTTON -->
+         <a class="scrollToTop" href="#"><i class="fa fa-arrow-up"></i></a>
+        <!-- END SCROLL TOP BUTTON -->
+        
+        <!-- == BEGIN header == -->
+        <div class="menu_area">
+            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">  
+                <div class="container">
+                   
+                    <div class="navbar-header">
+                        <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                  <!-- LOGO -->              
+                  <!-- TEXT BASED LOGO -->
+                  <!-- <a class="navbar-brand" href="index.jsp">Animal Disease Diagnosis Systems<span>Namal College</span></a> -->
+                  <!-- IMG BASED LOGO  -->
+                       
+                       
+                            <h3 id="userName">                        
+                            <label id="hellomsg"></label>  
+                        
+                            </h3>
+                        
+                    </div>
+
+                    <div id="navbar" class="navbar-collapse collapse">
+                        
+
+
+                        <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">    
+                            
+                                <li class="border_left border_right" ><a href="home" >English </a></li>
+                                <li class="border_right" style="margin-right: 2em;"><a href="home_ur" > اردو </a></li> 
+                          
+                            <li><a href="Home" class="home">Home</a></li>
+                            <!-- <li><a href="diagnosis" class = "service">Diagnose</a></li> -->
+                            
+                            <!--
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle service" data-toggle="dropdown" role="button" aria-expanded="false">Service <span class="fa fa-angle-down"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                  <li><a href="diagnosis" class = "displayForcefully">Diagnosis</a></li>
+                                </ul>
+                            </li>
+                            -->
+                            <li><a href="Merapet" class = "about">Mera Pet</a></li>
+                            <li><a href="Merimurghi" class = "about">Meri Murghi</a></li>
+                            
+                           
+                        </ul>           
+                    </div><!--/.nav-collapse -->
+                </div>     
+            </nav>  
+        </div>            
+        <!-- END header -->
+        
+        <!-- == BEGIN Breadcrumb you are here == -->
+        <section id="blogArchive">      
+            <div class="row">
+              <div class="col-lg-12 col-md-12">
+                <div class="blog-breadcrumbs-area">
+                  <div class="container">
+                    <div class="blog-breadcrumbs-right">
+                      <ol class="breadcrumb">
+                          <br>
+                        <li>You are here</li>
+                        <!-- <li><a href="{{ url_for('Home')}}">Home</a></li>  
+                        <li><a href="{{ url_for('BasicInfo')}}">Diagnose</a></li> -->
+                        <li class="active">Animal Description</li>
+                      </ol>
+                    </div>
+                  </div>
+                </div>
+              </div>        
+            </div>      
+        </section>
+        <!-- == END Breadcrumb you are here == -->
+     
+        <div class="container">
+                <div class="section-heading">
+                    <h2 >Dear user, kindly enter  animal's description for diagnosis</h2>
+                    <div class="line"></div><br/>
+                </div>
+            <!-- <form method="post" action="CaseController?action=getMajorSymptoms" id="input_from" onsubmit="return check_inputs();">             -->
+                <form action="{{ url_for('MainSymptoms')}}" method="post">
+                <p>Note: [*] denotes mandatory field</p>
+              
+                <!-- ==Animal Description Portion==-->
+                <div class="section-heading">
+                    <h2 align="center">Animal's Description</h2>
+                    <div class="line"></div><br/>
+                </div>
+                
+                
+                <div class="container">
+                    <!-- == Animal description row 1 - START== -->
+                    <div class="row" >
+                        <div  class="form-group col-md-6">
+                            <h4>Select Species[*]</h4>
+                            <select id="typeSelection" required='required' name ="type" >
+                                <option value="">-- Animal Species --</option>
+                                <option value="Buffalo">Buffalo</option>
+                                <option value="Cattle">Cattle</option>
+                                <option value="Goat">Goat</option>
+                                <option value="Sheep">Sheep</option>
+                            </select>
+                        </div> <!-- == End Animal type div == -->
+                    
+                        <!-- == Animal sex selection sub div == -->    
+                        <div class="form-group col-md-6" >
+                            <h4  >Select Sex[*]</h4>  
+                            <select id="sexSelection"  required='required' name="sex" >
+                                <option value="">-- Animal Sex --</option>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                            </select>
+                        </div><!-- == End Animal sex div == -->                        
+                    </div>
+                    <!-- == Animal description row 1 - END== -->
+                    
+                    <!-- == Animal description row 2 - START== -->
+                    <div class="row" >
+                        <!-- == Animal age selection sub div == -->                        
+                        <div class="form-group col-md-6" >
+                            <h4  >Select Age</h4>
+                            <select id="ageSelection" name = "age" >
+                                <option value="">-- Animal Age --</option>
+                                <option value="New Born">New Born</option>
+                                <option value="Growing">Growing</option>
+                                <option value="Adult">Adult</option>
+                            </select>
+                        </div> <!-- == End Animal age selection div == -->
+                        <!-- == End 3rd row div == -->
+
+                        <!-- == Animal breed selection sub div == -->
+                        <div class="form-group col-md-6"  >
+                            <h4>Select Breed</h4>
+                            <select id="breedSelection" name = "breed" >
+                                <option value="">-- Animal Breed --</option>
+                                <option value="Local">Local</option>
+                                <option value="Imported">Imported</option>
+                                <option value="Crossbred">Crossbred</option>
+                            </select>
+                        </div> <!-- == End breed selection age div == -->
+                    </div> <!-- == End row div == -->
+                </div> 
+                <!-- == End of Container div == --> 
+                
+                <br>
+
+                <!-- == Buttons div of input form == -->
+                <div class="submit-button" style="text-align: center; vertical-align: middle; ">
+                    <input type="submit" id="proceed_button" class="btn btn-success" name="btn_sbmt_eng" value="Proceed" /> 
+                    <input type="reset"  class="btn btn-warning" name="btn_clr" value="Clear"/> 
+                </div> <!-- == End of Buttons div of input form == -->
+
+            </form> <!-- == End of form == -->
+        </div>
+        <br><br> 
+
+
+        <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>    
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    
+        <!-- Bootstrap default js -->
+        <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    
+        <!-- slick slider -->
+        <script src="{{ url_for('static', filename='js/slick.min.js') }}"></script>    
+        <script type="text/javascript" src="{{ url_for('static', filename='js/modernizr.custom.79639.js') }}"></script> 
+    
+        <!-- counter -->
+        <script src="{{ url_for('static', filename='js/waypoints.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/jquery.counterup.min.js') }}"></script>
+    
+        <!-- Doctors hover effect -->
+        <script src="{{ url_for('static', filename='js/snap.svg-min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/hovers.js') }}"></script>
+    
+        <!-- Photo Swipe Gallery Slider -->
+        <script src="{{ url_for('static', filename='js/photoswipe.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/photoswipe-ui-default.min.js') }}"></script>    
+        <script src="{{ url_for('static', filename='js/photoswipe-gallery.js') }}"></script>
+    
+        <!-- Custom JS -->
+        <script src="{{ url_for('static', filename='js/custom.js') }}"></script>
+    
+        <!-- Form inputs checker JS -->
+        <script src="{{ url_for('static', filename='js/option_selector.js') }}"></script>
+        <script src="js/symptom_seletor.js"></script>
+        
+        <script src="{{ url_for('static', filename='js/google_analytic.js') }}"></script> 
+            <footer id="footer">
+                <!-- Start Footer Top -->
+                  <div class="footer-top">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-lg-4 col-md-4 col-sm-4">
+                                  <div class="single-footer-widget">
+                                      <div class="section-heading">
+                                          <h2>About Us</h2>
+                                          <div class="line"></div>
+                                      </div>           
+                                      <p>
+                                          <a href = "http://rail.namal.edu.pk/" target="_blank">Rural and Agriculture Informatics Lab (RAIL)</a> at Namal College Mianwali is providing
+                                          easy to use solutions to the problems of rural farmer communities of Pakistan. <br/>Intelligent Disease
+                                          Diagnosis System for Livestock in Rural Pakistan is one of the projects of RAIL, funded by
+                                          <a href = "https://ignite.org.pk/" target="_blank">Ignite, National Technology Fund, Government of Pakistan</a>.
+                                      </p>
+                                  </div>
+                              </div>
+                              <div class="col-lg-4 col-md-4 col-sm-4">
+                                  <div class="single-footer-widget">
+                                      <div class="section-heading">
+                                          <h2>Our Service</h2>
+                                          <div class="line"></div>
+                                      </div>
+                                      <ul class="footer-service">
+                                          <li>
+                                              <a href="diagnosis"><span class="fa fa-circle-o"></span>Disease Diagnosis</a>
+                                          </li>
+                                      </ul>
+                                  </div>
+                              </div>
+      
+                              <div class="col-lg-4 col-md-4 col-sm-4">
+                                  <div class="single-footer-widget">
+                                      <div class="section-heading">
+                                          <h2>Contact Info</h2>
+                                          <div class="line"></div>
+                                      </div>
+                                      <p>Rural and Agricultural Informatics Lab (RAIL), <br> Namal College Mianwali, Pakistan</p>
+                                      <address class="contact-info">
+                                          <p><span class="fa fa-home"></span>30 KM, Talagand Road Mianwali</p>
+                                          <p><span class="fa fa-phone"></span>+92 459 236995 Ext. 126</p>
+                                          <p><span class="fa fa-envelope"></span>rail@namal.edu.pk</p>
+                                      </address>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                <!-- Start Footer Middle -->
+                  <div class="footer-middle">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                  <div class="footer-copyright">
+                                      <p>&copy; Copyright 2022
+                                                  Namal University Mianwali</p>
+                                  </div>
+                              </div>
+                      
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                          <div class="footer-social">              
+                              <a href="#"><span class="fa fa-facebook"></span></a>
+                              <a href="#"><span class="fa fa-twitter"></span></a>
+                              <a href="#"><span class="fa fa-google-plus"></span></a>
+                              <a href="#"><span class="fa fa-linkedin"></span></a>     
+                          </div>
+                        </div>
+                        
+                          </div>
+                      </div>
+                  </div>
+                <!-- Start Footer Bottom -->
+      
+              </footer>                
+            <!-- == END Home page text area == -->
+            
+            <!-- including JS and JQuery scripts -->
+           
+        </body>
+    </html>
+    

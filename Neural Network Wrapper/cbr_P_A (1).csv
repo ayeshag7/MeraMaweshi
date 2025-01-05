@@ -1,0 +1,701 @@
+,Name,Sex,Abdominal_pain,Abdominal_distention_left_side,Anemia,Anorexia,Blood_in_feaces,Blood_in_urine,Blood_leakage_from_natural_holes_of_dead_animal,Bottle_jaw,Change_in_diet,Changed_milk_taste,Circling,Cough,Constipation,Crepitation,Depression,Dehydration,Dental_pad,Diarrhea,Difficult_movement,Dog_bite,Dyspnea,Eat_cloth_bones,Emaciation,Enlarged_lymph_nodes,Excitements,Facial_distortion,Faulty_drenching,Feet_foul_odor,Feet_lesions,Fever,Gas_accumulation,Hair_loss,Hard_feaces,Hard_Tongue,Head_pressing,Increased_heart_rate,Itching,Itching_in_Nose,Knee_swelling,Lameness,Lose_feaces,Milk_abnormalities,Milk_reduction,Mouth_discharge,Mouth_frothing,Mouth_lesions,Moving_in_circle,Nasal_discharge,Neck_swelling,Necrotic_stomatitis,Ocular_discharge,Oculonasal_discharge,Off_feed,Overfeeding,Paralysis,Pica,Phoyophia,Poor_growth,Pox_lesion,Red_moist_feet,Respiratory_distress,Restlessness,Ruptured_Lymph_Nodes,Salivation,Severe_itching,Skin_lesion_red,Skin_lesion,Sneezing,Subnormal_temperature,Sudden_death,Swollen_joints,Swollen_Jaw,Tachypnea,Teat_hole_blockage,Teats_inflammation,Teats_lesions,Temperature_fluctuation,Ticks_presence,Tick_worry,Tremors,Udder_infection,Udder_inflammation,Udder_lesion,Unable_to_stand,Uncoordinated_movements,Urine_block,Vaginal_infection,Vaginal_discharge,Wasting,Weakness,Weight_loss,Wheezes,Worms_in_feaces,Wounded,Yellow_eyes,Yellow_mucous_membrane,DiseaseName.1
+32,Buffalo,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uncoordinated movements,,,,,,Weight loss,,,,,,Anaplasmosis
+93,Buffalo,Female,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,Uncoordinated movements,,,,,,Weight loss,,,,,,Anaplasmosis
+217,Cattle,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uncoordinated movements,,,,,,Weight loss,,,,,,Anaplasmosis
+309,Cattle,Female,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Anaplasmosis
+418,Goat,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,Uncoordinated movements,,,,,,Weight loss,,,,,,Anaplasmosis
+614,Goat,Female,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uncoordinated movements,,,,,,Weight loss,,,,,,Anaplasmosis
+739,Sheep,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,Uncoordinated movements,,,,,,Weight loss,,,,,,Anaplasmosis
+791,Sheep,Female,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Anaplasmosis
+,Buffalo,Male,,,,0.9,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,Anaplasmosis
+,Buffalo,Female,,,,0.9,0.9,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,0.9,,,,,,Anaplasmosis
+0,Buffalo,Male,Abdominal Pain,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+1,Buffalo,Male,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+33,Buffalo,Male,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+55,Buffalo,Female,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+56,Buffalo,Female,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+95,Buffalo,Female,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+218,Cattle,Male,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+253,Cattle,Male,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+310,Cattle,Female,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Cattle,Female,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Cattle,Male,,,0.9,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Buffalo,Male,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Buffalo,Male,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Cattle,Female,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Cattle ,Female,,,0.9,0.9,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Goat,Male,,,0.9,0.9,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,Anthrax
+,Cattle,Male,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+486,Goat,Male,,,,,,,,,,,,,,,,,,,Difficulty/pain in movement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Swelling in joints,,,,,,,,,,,,,,,,,,,,,,,,,,Arthritis
+2,Buffalo,Male,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Babesiosis
+34,Buffalo,Male,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+96,Buffalo,Female,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,Yellow/Pale Eyes,Yellow Mucous Membrane,Babesiosis
+97,Buffalo,Female,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,Yellow Mucous Membrane,Babesiosis
+98,Buffalo,Female,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,Yellow/Pale Eyes,Yellow Mucous Membrane,Babesiosis
+99,Buffalo,Female,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Babesiosis
+101,Buffalo,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+254,Cattle,Male,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Babesiosis
+255,Cattle,Male,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+270,Cattle,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+419,Goat,Male,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Babesiosis
+420,Goat,Male,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+615,Goat,Female,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Babesiosis
+616,Goat,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+708,Sheep,Male,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+740,Sheep,Male,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Babesiosis
+789,Sheep,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+792,Sheep,Female,,,Anemia,,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Babesiosis
+,Buffalo,Female,,,0.9,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,Babesiosis
+,Buffalo,Female,,,,,0.9,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,0.9,Babesiosis
+,Buffalo,Female,,,,,,0.9,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,0.9,0.9,Babesiosis
+,Cattle,Female,,,0.9,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,0.9,Babesiosis
+,Buffalo ,Female,,0.9,,,,0.9,,,,,,,,,0.9,,,0.9,,,0.9,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,Babesiosis
+,Cattle,Female,,,0.9,,,0.9,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,0.9,Babesiosis
+3,Buffalo,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,Fever,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+4,Buffalo,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+35,Buffalo,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+57,Buffalo,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+102,Buffalo,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,Fever,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+103,Buffalo,Female,,,,,,,,,,,,,,Crepitation,,,,Diarrhea,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+104,Buffalo,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+105,Buffalo,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+106,Buffalo,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+219,Cattle,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+220,Cattle,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+256,Cattle,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+257,Cattle,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+258,Cattle,Male,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+274,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+275,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+276,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+311,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+312,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+313,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+314,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+315,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+,Cattle,Female,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+,Cattle,Male,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,0.9,,,,,0.9,,,,,,,Black Quarter
+,Cattle,Female,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,Black Quarter
+,Buffalo,Male,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Quarter
+,Buffalo,Male,,,,0.9,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,0.9,,,,,,,,,,,Black Quarter
+,Cattle,Male,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,Black Quarter
+,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caseous Lymphadenitis
+107,Buffalo,Female,,,,,,,,,Change in diet,,,,,,,,,,,,,,,,,,,,,,Gas accumulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+108,Buffalo,Female,,,,,,,,,Change in diet,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+414,Goat,Male,,,,Anorexia,,,,,Change in diet,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+421,Goat,Male,,,,Anorexia,,,,,Change in diet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+487,Goat,Male,Abdominal Pain,,,,,,,,Change in diet,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+488,Goat,Male,,,,Anorexia,,,,,Change in diet,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+490,Goat,Male,,,,,,,,,Change in diet,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Overfeeding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+655,Goat,Female,Abdominal Pain,,,,,,,,Change in diet,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+709,Sheep,Male,,,,,,,,,Change in diet,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+741,Sheep,Male,,,,Anorexia,,,,,Change in diet,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Overfeeding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digestive System Disorder
+,Sheep,Male,,,,,,,,,0.9,,0.9,,,,,,,0.9,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,Digestive System Disorder
+,Buffalo,Male,,,,,,,,,,,,,,,0.9,,,0.3,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,Digestive System Disorder
+,Buffalo ,Male,,,,,0.9,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Digestive System Disorder
+5,Buffalo,Male,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+58,Buffalo,Female,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+109,Buffalo,Female,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Drenching Pneumonia
+111,Buffalo,Female,,,,Anorexia,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,Tachypnea,,,,,,,,,,,,,,,,,Weakness,,Wheezes,,,,,Drenching Pneumonia
+316,Cattle,Female,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+422,Goat,Male,,,,Anorexia,,,,,,,,Cough,,,Depression,,,,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tachypnea,,,,,,,,,,,,,,,,,,,,,,,,Drenching Pneumonia
+492,Goat,Male,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+496,Goat,Male,,,,,,,,,,,,,,,,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+617,Goat,Female,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+710,Sheep,Male,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Drenching Pneumonia
+711,Sheep,Male,,,,,,,,,,,,,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,Yellow Mucous Membrane,Drenching Pneumonia
+712,Sheep,Male,,,,Anorexia,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,,,,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+743,Sheep,Male,,,,,,,,,,,,Cough,,,,,,,,,Dyspnea,,,,,,Faulty drenching,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wheezes,,,,,Drenching Pneumonia
+,Goat,Female,0.9,,,0.9,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,Fasciolosis
+116,Buffalo,Female,,Abdomen's expansion/swelling on left side,,Anorexia,,,,Bottle jaw,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fasciolosis
+6,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+7,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+8,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+37,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+38,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+59,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+60,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+117,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+118,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,,,,Decrease in milk production,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+119,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+120,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+122,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+123,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+124,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+125,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,Decrease in milk production,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+126,Buffalo,Female,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+127,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+128,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+213,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+221,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+222,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+223,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+260,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,Lameness,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+271,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Skin lesion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+277,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+278,Cattle,Female,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,Lameness,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+317,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+319,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+320,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,Lameness,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+321,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,,,,Decrease in milk production,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+322,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+323,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,Decrease in milk production,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+324,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,Lameness,,,Decrease in milk production,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+325,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,Decrease in milk production,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+326,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+327,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+328,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+329,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+330,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+331,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+332,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+333,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,Mouth frothing,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+334,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+335,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,Fever,,,,,,,,,,,,,Decrease in milk production,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+499,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+618,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+659,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+713,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+714,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+790,Sheep,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+796,Sheep,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+,Cattle,Female,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,0.9,,,,,,0.9,,,,,,,,,,0.9,,,0.9,,,0.9,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Foot and Mouth Disease (FMD)
+,Cattle,Female,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,0.9,,,,,,0.9,,,,,,,,,,0.9,,,,,,0.9,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+,Goat,Female,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,0.9,0.3,,0.9,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot and Mouth Disease (FMD)
+39,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+61,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bad/foul foot odour,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+224,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bad/foul foot odour,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+336,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bad/foul foot odour,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+500,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bad/foul foot odour,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+619,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bad/foul foot odour,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+744,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+797,Sheep,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bad/foul foot odour,Blisters/lesions on feet,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,Red and moist feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+,Cattle,Male,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Foot Rot
+,Cattle,Female,,,,0.9,,,,,0.9,,,,,,,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,0.9,,,Foot Rot
+337,Cattle,Female,,,,,,,,,,,Circling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+501,Goat,Male,,,,,,,,,,,Circling,,,,Depression,,,,,,,,,,,,,,,,,,,,Pressing head against wall or any object,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+503,Goat,Male,,,,,,,,,,,Circling,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+504,Goat,Male,,,,,,,,,,,Circling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+620,Goat,Female,,,,,,,,,,,Circling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+621,Goat,Female,,,,Anorexia,,,,,,,Circling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+660,Goat,Female,,,,,,,,,,,Circling,,,,Depression,,,,,,,,,,,,,,,,,,,,Pressing head against wall or any object,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+715,Sheep,Male,,,,,,,,,,,Circling,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+,Sheep,Male,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+,Sheep,Male,,,,0.9,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,GID
+,Sheep,Male,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,GID
+,Buffalo,Male,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,GID
+,Sheep,Male,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,GID
+,Cattle,Female,,,,0.9,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+,Goat,Female,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,0.9,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Sheep n Goat Pox
+9,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+10,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+41,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+42,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+43,Buffalo,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+45,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+46,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+62,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+63,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+64,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+129,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,Decrease in milk production,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+130,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+131,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+132,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+133,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+134,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+135,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+225,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+226,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+229,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+261,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+280,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+281,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+282,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+338,Cattle,Female,,,,,,,Blood leakage from natural holes of dead animal,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+339,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,Sudden death,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+340,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+341,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,Mouth frothing,,,,Swelling of head and neck,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.3,,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+,Cattle,Male,,,,0.9,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,0.3,,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,0.9,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+,Buffalo,Female,,,,0.9,,,,,0.9,,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,Haemorrhagic Septicaemia
+,Buffalo ,Female,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haemorrhagic Septicaemia
+,Buffalo,Female,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,0.9,,,,,,,,,,0.9,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Haemorrhagic Septicaemia
+66,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Hyperthermia
+139,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyperthermia
+263,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyperthermia
+345,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyperthermia
+423,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyperthermia
+622,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyperthermia
+716,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyperthermia
+718,Sheep,Male,,,,Anorexia,,,,,,,,Cough,,,,,,Diarrhea,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyperthermia
+67,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hypothermia
+,Goat,Female,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hypothermia
+,Sheep,Male,,,,,,,,,,,,0.3,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hypothermia
+,Goat,Female,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,Hypothermia
+141,Buffalo,Female,,,,,,,,,,,,,Constipation,,,,,,,,,,,,,,,,,,,,Hard feaces,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Impaction/Constipation
+284,Cattle,Female,,Abdomen's expansion/swelling on left side,,,,,,,,,,,Constipation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Impaction/Constipation
+425,Goat,Male,,,,,,,,,,,,,Constipation,,,,,,,,,,,,,,,,,,,,Hard feaces,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Impaction/Constipation
+12,Buffalo,Male,,,,Anorexia,Blood in feaces,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+142,Buffalo,Female,,,,Anorexia,Blood in feaces,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+214,Cattle,Male,,,,Anorexia,Blood in feaces,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+285,Cattle,Female,,,,,Blood in feaces,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+426,Goat,Male,,,,Anorexia,Blood in feaces,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+624,Goat,Female,,,,,Blood in feaces,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+706,Sheep,Male,,,,Anorexia,Blood in feaces,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+798,Sheep,Female,,,,,Blood in feaces,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+,Goat,Male,,,,,,,,,,,,,,,0.9,,,0.9,,,,,0.9,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,0.9,,,,,,Infectious Diarrhea
+,Goat,Female,,,,0.9,,,,,0.9,,,,,,0.9,,,0.9,,,,,0.9,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Infectious Diarrhea
+,Cattle,Male,,,,,,,,,,,,,,,0.9,0.9,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Diarrhea
+,Cattle,Female,,,,0.9,0.9,,,,,,,,,,0.9,0.9,,0.9,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,Infectious Diarrhea
+,Cattle,Female,,,,,,,,,,,,,,,,0.9,,0.9,,,,,0.9,,,,,,,0.3,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Infectious Diarrhea
+,Cattle,Female,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Phenomnia
+,Goat,Male,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,0.9,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,Infectious Phenomnia
+68,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wounded,,,Injury Trauma
+286,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wounded,,,Injury Trauma
+287,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wounded,,,Injury Trauma
+427,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Injury Trauma
+428,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wounded,,,Injury Trauma
+429,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wounded,,,Injury Trauma
+625,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wounded,,,Injury Trauma
+719,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wounded,,,Injury Trauma
+793,Sheep,Female,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Injury Trauma
+47,Buffalo,Male,,,Anemia,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+69,Buffalo,Female,,,Anemia,,,,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+215,Cattle,Male,,,Anemia,Anorexia,,,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+288,Cattle,Female,,,Anemia,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+517,Goat,Male,,,Anemia,,,,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+665,Goat,Female,,,Anemia,,,,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+750,Sheep,Male,,,Anemia,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+799,Sheep,Female,,,Anemia,Anorexia,,,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow/Pale Eyes,,Jaundice
+,Goat,Female,,,0.9,0.9,,,,,,,,,,,,,,0.3,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,,Jaundice
+,Sheep,Male,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,..9,0.9,0.9,Jaundice
+518,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Lactic Acidosis
+666,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lactic Acidosis
+,Buffalo,Male,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,Lumpy Jaw
+,Buffalo,Female,,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,Lumpy Jaw
+,Buffalo ,Female,,,,0.9,,,,0.9,,,,,,,0.9,,,,,,0.9,,,0.9,,,,,,0.3,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lumpy Jaw
+439,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe itching,Small red patches usually around mouth/ nose/ eyes/ on the head/ under the tail/ between legs,Skin lesion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mange Infestation
+440,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,Emaciation,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe itching,Small red patches usually around mouth/ nose/ eyes/ on the head/ under the tail/ between legs,Skin lesion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mange Infestation
+441,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe itching,Small red patches usually around mouth/ nose/ eyes/ on the head/ under the tail/ between legs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mange Infestation
+519,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe itching,Small red patches usually around mouth/ nose/ eyes/ on the head/ under the tail/ between legs,Skin lesion,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Mange Infestation
+626,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,Emaciation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small red patches usually around mouth/ nose/ eyes/ on the head/ under the tail/ between legs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mange Infestation
+667,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe itching,Small red patches usually around mouth/ nose/ eyes/ on the head/ under the tail/ between legs,Skin lesion,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Mange Infestation
+721,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe itching,Small red patches usually around mouth/ nose/ eyes/ on the head/ under the tail/ between legs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mange Infestation
+146,Buffalo,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,,,,,,,,,,,,,,,Mastitis
+147,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+148,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+149,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+151,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+152,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+154,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+155,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,Lesions on udder,,,,,,,,,,,,,,Mastitis
+156,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+157,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+160,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+165,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,Udder inflammation,Lesions on udder,,,,,,,,,,,,,,Mastitis
+167,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teat hole blockage,,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,,,,,,,,,,,,,,,Mastitis
+173,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,,,,,,Udder infection - Bleeding small cuts on udder,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+289,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,Lesions on udder,,,,,,,,,,,,,,Mastitis
+347,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+348,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+349,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+350,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+351,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+352,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+353,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+354,Cattle,Female,,,,,,,,,,,,,,Crepitation,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+356,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+357,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,Lesions on udder,,,,,,,,,,,,,,Mastitis
+358,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lameness,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+359,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+360,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+361,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+366,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+367,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,Skin lesion,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,Lesions on udder,,,,,,,,,,,,,,Mastitis
+368,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,Milk abnormalities - watery/discoloration/clots/flakes/pus,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,,,,,,,,,,,,,,,Mastitis
+373,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+377,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lesions on teat(s) - Wounds and bruises on teats,,,,,,,Lesions on udder,,,,,,,,,,,,,,Mastitis
+379,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,,,,,,Udder infection - Bleeding small cuts on udder,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+627,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+668,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+669,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,Lesions on udder,,,,,,,,,,,,,,Mastitis
+670,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teat hole blockage,,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,,,,,,,,,,,,,,,,Mastitis
+671,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teat hole blockage,Teats Inflammation -  reddened/swollen/hot/painful teats,Lesions on teat(s) - Wounds and bruises on teats,,,,,Udder infection - Bleeding small cuts on udder,Udder inflammation,,,,,,,,,,,,,,,Mastitis
+,Buffalo,Female,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,Mastitis
+,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,0.9,,,,,,,,,,,,,,,Mastitis
+70,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Increased heart rate,,,,,,,,,,,,,,,,,,,,,,,,,,Restlessness,,,,,,,Subnormal temperature,,,,,,,,,,,Tremors,,,,Unable to stand,,,,,,,,,,,,,Milk Fever
+,Cattle,Female,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milk Fever
+,Buffalo,Female,,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,Milk Fever
+,Cattle,Female,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,Milk Fever
+,Buffalo ,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,Milk Fever
+48,Buffalo,Male,,,,Anorexia,,Blood in urine,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+71,Buffalo,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pica,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+230,Cattle,Male,,,,,,Blood in urine,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+380,Cattle,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pica,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+442,Goat,Male,,,,Anorexia,,Blood in urine,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pica,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+673,Goat,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pica,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+753,Sheep,Male,,,,,,Blood in urine,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pica,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+800,Sheep,Female,,,,Anorexia,,Blood in urine,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phosphorus Deficiency
+,Goat,Female,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Phosphorus Deficiency
+,Goat,Female,,,,0.9,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Phosphorus Deficiency
+,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pica
+,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pink Eye
+49,Buffalo,Male,,,,Anorexia,,,,,,,,,,,,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+72,Buffalo,Female,,,,Anorexia,,,,,,,,,,,Depression,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tremors,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+264,Cattle,Male,,,,Anorexia,,,,,,,,,,,Depression,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,Tremors,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+381,Cattle,Female,,,,Anorexia,,,,,,,,,,,Depression,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,Tremors,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+522,Goat,Male,,,,Anorexia,,,,,,,,,,,Depression,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,Tremors,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+674,Goat,Female,,,,Anorexia,,,,,,,,,,,Depression,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,Tremors,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+722,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,Salivation or Excessive salivation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+794,Sheep,Female,,,,Anorexia,,,,,,,,,,,Depression,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,,,,,,,,,,,,,,,,,Tremors,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+443,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+523,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,Necrotic stomatitis,,Oculonasal discharge,,,,,,,,,Respiratory distress,,,,,,Skin lesion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+524,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Necrotic stomatitis,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+525,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,Necrotic stomatitis,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+526,Goat,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,Necrotic stomatitis,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+527,Goat,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,Necrotic stomatitis,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+528,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,Necrotic stomatitis,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+529,Goat,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,Necrotic stomatitis,,Oculonasal discharge,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+530,Goat,Male,,,,,,,,,,,,,Constipation,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+531,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+628,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,PPR
+675,Goat,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+676,Goat,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,Necrotic stomatitis,,Oculonasal discharge,,,,,,,,,Respiratory distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+677,Goat,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+678,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,,,,Dyspnea,,,,,,,,,,,,,,,,,,,,,,,,,Blisters/lesions in mouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+,Goat,Female,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,0.9,0.9,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+,Sheep,Female,,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,,,,,0.9,,,,,,,,,,,,,,,,,0.9,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PPR
+,Goat,Female,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,0.9,,0.9,0.9,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,PPR
+13,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+73,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+216,Cattle,Male,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Pyrexia/ Infection/ Inflammation
+231,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+233,Cattle,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Pyrexia/ Infection/ Inflammation
+290,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+382,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+383,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+386,Cattle,Female,,,,Anorexia,,,,,,,,Cough,,,Depression,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Pyrexia/ Infection/ Inflammation
+415,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+416,Goat,Male,,,,,,,,,Change in diet,,,,,,Depression,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+452,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,Knee swelling,Lameness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+532,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+534,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Pyrexia/ Infection/ Inflammation
+535,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+611,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+612,Goat,Female,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Pyrexia/ Infection/ Inflammation
+634,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+723,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+726,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Pyrexia/ Infection/ Inflammation
+727,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Pyrexia/ Infection/ Inflammation
+754,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+801,Sheep,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pyrexia/ Infection/ Inflammation
+453,Goat,Male,,,,,,,,,,,,,,,,,,,,Dog bite,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rabies and Injury
+,Cattle,Male,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,0.9,,0.9,,0.9,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Red Nose
+,Cattle,Male,0.9,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Red water disease
+454,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe itching,,Skin lesion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sheep n Goat Pox
+,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.3,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Sheep n Goat Pox
+,Sheep,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Sheep n Goat Pox
+15,Buffalo,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,,,,,,,Theileriosis
+16,Buffalo,Male,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+17,Buffalo,Male,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+18,Buffalo,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+75,Buffalo,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+76,Buffalo,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+77,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+78,Buffalo,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+182,Buffalo,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+183,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+184,Buffalo,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+185,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+186,Buffalo,Female,,,,,,Blood in urine,,,,,,,,,,,,Diarrhea,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+188,Buffalo,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+190,Buffalo,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Theileriosis
+191,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+234,Cattle,Male,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+235,Cattle,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,,,,,,,Theileriosis
+236,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+237,Cattle,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+238,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+239,Cattle,Male,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+240,Cattle,Male,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+266,Cattle,Male,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+267,Cattle,Male,,,,,Blood in feaces,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+291,Cattle,Female,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+292,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+293,Cattle,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+294,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+295,Cattle,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+296,Cattle,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+297,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+387,Cattle,Female,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+388,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+389,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+390,Cattle,Female,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+391,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+392,Cattle,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,Diarrhea,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+393,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+394,Cattle,Female,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+396,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+397,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+399,Cattle,Female,,,,,,Blood in urine,,,,,,,,,,,,Diarrhea,,,,,,Enlargement of lymph nodes,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,Oculonasal discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yellow Mucous Membrane,Theileriosis
+455,Goat,Male,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+456,Goat,Male,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+551,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+552,Goat,Male,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,,,,,,,Theileriosis
+553,Goat,Male,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+554,Goat,Male,,,,,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+555,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+556,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Theileriosis
+557,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,,,,,,,Theileriosis
+635,Goat,Female,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+728,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+729,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+730,Sheep,Male,,,,Anorexia,,,,,,,,Cough,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Off-feed - Intake less than normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+766,Sheep,Male,,,,,,,,,,,,,,,,,,Chronic diarrhea,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,Weight loss,,,,,,Theileriosis
+767,Sheep,Male,,,,,,,,,,,,,,,,,,,,,Dyspnea,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subnormal temperature,,,,,,,,Temperature fluctuation,,,,,,,,,,,,Wasting,,,,,,,,Theileriosis
+768,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+769,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Temperature fluctuation,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+770,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Theileriosis
+771,Sheep,Male,,,,Anorexia,,Blood in urine,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+772,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,Enlargement of lymph nodes,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Theileriosis
+457,Goat,Male,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Throat Infection
+,Buffalo,Male,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Throat Infection
+,Buffalo,Female,,,,0.9,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Throat Infection
+19,Buffalo,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,Poor growth,,,,,,,,,Skin lesion,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+20,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,Weight loss,,,,,,Tick Infestation
+21,Buffalo,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+22,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+23,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+50,Buffalo,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+51,Buffalo,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+79,Buffalo,Female,,,Anemia,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+80,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,Weight loss,,,,,,Tick Infestation
+192,Buffalo,Female,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+241,Cattle,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+242,Cattle,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+243,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+244,Cattle,Male,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+400,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+458,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,Weight loss,,,,,,Tick Infestation
+459,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,Weight loss,,,,,,Tick Infestation
+460,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+463,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+464,Goat,Male,,,Anemia,,,,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,Itching,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+636,Goat,Female,,,Anemia,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,Paralysis,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+637,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,Weight loss,,,,,,Tick Infestation
+638,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+685,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,Weight loss,,,,,,Tick Infestation
+707,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,,,,,,,Tick Infestation
+731,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+803,Sheep,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,,,,,,,,,,,,,Weight loss,,,,,,Tick Infestation
+804,Sheep,Female,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,Ticks on the skin,Tick worry,,,,,,,,,,,,,,,,,,Tick Infestation
+,Cattle,Female,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,Tick Infestation
+,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,0.9,0.9,Tick Infestation
+,Buffalo,Female,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,Tick Infestation
+,Sheep,Male,,,,0.9,,,,,,,,,,,0.9,,,,0.9,,0.9,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,0.9,Tick Infestation
+,Cattle,Male,,,,,,,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,Tick Infestation
+194,Buffalo,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,Weight loss,,,,,,Trypanosomiasis
+,Cattle,Female,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,Trypanosomiasis
+81,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gas accumulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tympany/ Bloat
+195,Buffalo,Female,,Abdomen's expansion/swelling on left side,,,,,,,,,,,Constipation,,,,,,,,,,,,,,,,,,Gas accumulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tympany/ Bloat
+272,Cattle,Female,,Abdomen's expansion/swelling on left side,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gas accumulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tympany/ Bloat
+559,Goat,Male,,Abdomen's expansion/swelling on left side,,,,,,,,,,,Constipation,,,,,,,,,,,,,,,,,,Gas accumulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tympany/ Bloat
+,Buffalo,Female,0.9,0.9,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tympany/ Bloat
+,Cattle ,Female,0.9,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,Tympany/ Bloat
+52,Buffalo,Male,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+53,Buffalo,Male,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+82,Buffalo,Female,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+196,Buffalo,Female,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+245,Cattle,Male,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+246,Cattle,Male,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+298,Cattle,Female,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+402,Cattle,Female,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,Sneezing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+465,Goat,Male,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+565,Goat,Male,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+574,Goat,Male,,,,Anorexia,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+639,Goat,Female,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+686,Goat,Female,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+732,Sheep,Male,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+733,Sheep,Male,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+774,Sheep,Male,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+775,Sheep,Male,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+795,Sheep,Female,,,,,,,,,,,,Cough,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,Oculonasal discharge,,,,,,,,,,,,,,,,Sneezing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+805,Sheep,Female,,,,,,,,,,,,Chronic cough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Upper Respiratory Tract Infection
+197,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urine blockage,Vaginal infection,,,,,,,,,,Urine Retention
+467,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urine blockage,,,,,,,,,,,Urine Retention
+692,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urine blockage,,,,,,,,,,,Urine Retention
+,Cattle,Female,,,,,,,,,,,,,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,,,,,0.9,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Vitamins and Minerals  Deficiency
+83,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamins and Minerals  Deficiency
+198,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Vitamins and Minerals  Deficiency
+199,Buffalo,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,Weight loss,,,,,Yellow Mucous Membrane,Vitamins and Minerals  Deficiency
+247,Cattle,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Vitamins and Minerals  Deficiency
+248,Cattle,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Vitamins and Minerals  Deficiency
+468,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamins and Minerals  Deficiency
+469,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,Weight loss,,,,,,Vitamins and Minerals  Deficiency
+470,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Vitamins and Minerals  Deficiency
+471,Goat,Male,,,,Anorexia,,,,,,,,,,,Depression,,,,,,,,Emaciation,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,Off-feed - Intake less than normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamins and Minerals  Deficiency
+581,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,Weight loss,,,,,,Vitamins and Minerals  Deficiency
+582,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,Weight loss,,,,,,Vitamins and Minerals  Deficiency
+613,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Vitamins and Minerals  Deficiency
+640,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,Weight loss,,,,,,Vitamins and Minerals  Deficiency
+695,Goat,Female,,,,,,,,,,,,,,,Depression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamins and Minerals  Deficiency
+697,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Vitamins and Minerals  Deficiency
+777,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,Weight loss,,,,,,Vitamins and Minerals  Deficiency
+778,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weakness,,,,,,,Vitamins and Minerals  Deficiency
+,Cattle,Female,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,Wooden Tongue
+24,Buffalo,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+25,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+26,Buffalo,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+28,Buffalo,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+29,Buffalo,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+30,Buffalo,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+31,Buffalo,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+84,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+85,Buffalo,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+86,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+87,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+90,Buffalo,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+92,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+200,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+201,Buffalo,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+202,Buffalo,Female,Abdominal Pain,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+203,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+204,Buffalo,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+205,Buffalo,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+206,Buffalo,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+209,Buffalo,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+210,Buffalo,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+212,Buffalo,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+249,Cattle,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+251,Cattle,Male,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+252,Cattle,Male,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+268,Cattle,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+269,Cattle,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+273,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+301,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+302,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+303,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+304,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+305,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+306,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+307,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+404,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+405,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,Decrease in milk production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+407,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+408,Cattle,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+410,Cattle,Female,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+411,Cattle,Female,Abdominal Pain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+412,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+413,Cattle,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+417,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+472,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wasting,,Weight loss,,Worms in feaces,,,,Worm Infestation
+473,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+476,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+477,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+478,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+481,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+482,Goat,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+483,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,Lameness,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+484,Goat,Male,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,Discharge from nose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+485,Goat,Male,,,,,,,,,Change in diet,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+588,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+589,Goat,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+590,Goat,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+592,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+596,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+597,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+598,Goat,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+600,Goat,Male,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+603,Goat,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+604,Goat,Male,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+605,Goat,Male,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+606,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+607,Goat,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+643,Goat,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+644,Goat,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+645,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+646,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+647,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+648,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+649,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+650,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+651,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+652,Goat,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+653,Goat,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,Ocular discharge,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+654,Goat,Female,,,,Anorexia,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+699,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+700,Goat,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+701,Goat,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+703,Goat,Female,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+704,Goat,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+705,Goat,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,Very high fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+734,Sheep,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+736,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+737,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+738,Sheep,Male,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+779,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+780,Sheep,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+781,Sheep,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+782,Sheep,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+783,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,,,,,Worm Infestation
+784,Sheep,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+785,Sheep,Male,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+787,Sheep,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+788,Sheep,Male,,,,,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worms in feaces,,,,Worm Infestation
+807,Sheep,Female,,,,Anorexia,,,,,,,,,,,,,,,,,,,,,,,,,,Fever,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+808,Sheep,Female,,,,Anorexia,,,,,,,,,,,,,,Diarrhea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Worm Infestation
+809,Sheep,Female,,,,,,,,,,,,,,,Depression,,,Diarrhea,,,,,,,,,,,,,,Hair/Wool loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weight loss,,Worms in feaces,,,,Worm Infestation
+,Goat,Male,,,0.9,,0.9,,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,0.9,Worm Infestation
+,Buffalo,Female,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,0.9,0.9,Babesiosis
+,Buffalo,Male,,,,0.9,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,Black Quarter
+,Buffalo,Male,,,,0.9,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,Infectious Phenomnia
+,Cattle ,Female,,,0.9,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,0.9,Anaplasmosis
+,Cattle,Male,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Black Quarter
+,Sheep,Male,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,0.9,,,,,,Infectious Diarrhea
+,Goat,Female,,,,,,,,,,,,0.3,,,,,,,,,0.9,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,Infectious Phenomnia
+,Goat,Female,,,,0.9,,,,,0.9,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Phosphorus Deficiency
+,Sheep,Male,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+,Cattle,Female,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,0.9,0.9,,0.9,0.9,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Haemorrhagic Septicaemia
+,Cattle ,Female,0.9,0.9,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Tympany/ Bloat
+,Cattle,Female,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,Tick Infestation
+,Sheep,Female,,,,0.9,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Infectious Phenomnia
+,Cattle,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,0.9,0.9,0.9,,,,,,,,,,,,,,Mastitis
+,Buffalo,Female,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,0.9,Babesiosis
+,Buffalo,Male,,,,0.9,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,0.9,,0.9,,Theilerio
+,Goat,Male,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,Urine Retention
+,Buffalo,Male,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,Black Quarter
+,Cattle,Female,,,0.9,0.9,0.9,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,Anthrax
+,Cattle,Male,,,,0.9,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,0.3,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,Haemorrhagic Septicaemia
+,Buffalo,Female,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,0.9,0.9,,,,,,,,,,,,,,Mastitis
+,Goat,Male,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,0.9,,,,,0.9,0.9,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,0.9,,Mange Infestation
+,Goat,Female,,,0.9,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,0.9,,Worm Infestation
+,Cattle ,Female,,,0.9,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,0.9,0.9,Jaundice
+,Sheep,Male,,,,0.9,,,,,,,0.9,,,,0.9,,,,,,,,,0.9,,,,,,0.3,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,GID
+,Cattle ,Male,,,,,,,,,,,,0.9,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Plant/Feed Toxicity
+,Buffalo,Female,,,,0.9,,,,,,,,0.9,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Drenching Pneumonia
+,Sheep,Female,,,0.9,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,0.9,,Jaundice
+,Goat,Female,,,,0.9,,,,,0.9,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,0.9,0.9,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,PPR
+,Cattle ,Female,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,0.9,,,,,,,,,,,,,,,,Mastitis
+,Cattle ,Female,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Milk Fever
+,Cattle ,Female,,,0.9,0.9,0.9,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,0.9,0.9,Babesiosis
+,Goat,Female,0.9,,,,,,,,,,,,,,0.9,,,0.9,,,,,0.9,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Infectious Diarrhea
+,Sheep,Male,,,,0.9,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,Vitamins and Minerals  Deficiency
+,Sheep,Female,,,,0.9,,,,,,,,0.9,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Infectious Phenomnia
+,Buffalo,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,Tick Infestation
+,Sheep,Female,,,0.9,,0.9,,,,,,,,,,0.9,,,0.9,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Jaundice
+,Buffalo,Male,,,,0.9,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,Black Quarter
+,Cattle ,Male,,,,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,Anthrax
+,Cattle ,Female,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,0.9,,,,,,,,,,,,,,,,Mastitis
+,Cattle,Female,,,,0.9,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,0.9,0.3,,,,,,,,,,,,,,0.9,0.9,0.9,,0.9,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,Foot and Mouth Disease (FMD)
+,Sheep ,Male,,,,0.9,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,GID
+,Cattle,Female,,,0.9,0.9,0.9,0.9,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,0.9,,,,,,0.9,0.9,Babesiosis
+,Buffalo,Male,,,,0.9,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fasciolosis
+,Cattle,Female,,,,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,0.9,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,,Infectious Phenomnia
+,Sheep ,Male,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GID
+,Buffalo,Male,,,0.9,,,,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthrax
+,Goat,Female,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hypothermia
+,Goat,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.3,,,,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,,0.9,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pink Eye
+,Buffalo,Male,,,,0.9,,,,0.9,0.9,,,,,,0.9,,,,,,0.9,,,0.9,,0.9,,,,0.3,,,,,,,,,,,,,,0.9,0.9,,,,0.9,,,,,,,,,,,,,,,0.9,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,Wooden Tongue
+,Buffalo,Female,,,,0.9,,,,,,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caseous Lymphadenitis
+,Buffalo,Female,,,,0.9,,,,,,,,,,,,,,,,,0.9,,0.9,,,0.9,,,,,,,,,,,,,,,,,,,,,,0.9,,,0.9,0.9,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Nose
+,Sheep,Female,,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,,,,0.9,0.9,,,,,,0.9,,,,,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.9,0.9,Pink Eye
